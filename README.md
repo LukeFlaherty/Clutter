@@ -31,7 +31,6 @@ service cloud.firestore {
       function notUpdating(field){
       return !(field in request.resource.data || resource.data[field] == request.resource.data[field])
       }
-      
       allow read: if authed() && matchesUser(resource.data)
       allow create: if authed() && matchesUser(request.resource.data)
       allow update: if authed() && matchesUser(resource.data) && notUpdating("userId")
