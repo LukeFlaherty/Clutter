@@ -2,7 +2,7 @@
 
 ## Feel free to test it out yourself here: https://wizardly-goldberg-2c2922.netlify.app 
 
-#### If the link does not work it means I took down the database for other projects, you can still watch the demo here: https://youtu.be/8DXK0Y-wcQE 
+## If the link does not work it means I took down the database for other projects, you can still watch the demo here: https://youtu.be/8DXK0Y-wcQE 
 
 ### Clutter is an app designed to help with your... you guessed it... Clutter!
 #### You are able to create an account and store folders of images on it for free!
